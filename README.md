@@ -1,5 +1,5 @@
 
-# AiT Mobile Application
+# AIESEC Portal
 
 This mobile application is made during an EST experience, wokring with AIESEC in Tunisia, with an objective of facilitating the Exchange Participants for the Outgoing Exchange departments in AIESEC in Tunisia.
 
